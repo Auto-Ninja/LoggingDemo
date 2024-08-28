@@ -21,7 +21,7 @@ public class LaunchBrowserTest {
         logger.debug("This is DEBUG");
         logger.info("This is INFO");
         logger.warn("This is WARN");
-        logger.error("This is ERROR123");
+        logger.error("This is ERROR");
         logger.fatal("This is FATAL");
     }
 
